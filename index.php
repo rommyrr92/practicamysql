@@ -38,7 +38,7 @@
          "</td><td>" . $fila->apellido .
          "</td><td>" . $fila->direccion .
          "</td><td>" . $fila->telefijo .
-         "</td><td>" . $fila->telemovil .
+         "</td><td>" . $fila->telfmovi .
          "</td><td>" . $fila->email .
          "</td></tr>";
        }
